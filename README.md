@@ -4,25 +4,14 @@
 
 ### Install Node JS
 
-Refer to https://nodejs.org/en/ to install nodejs - Please choose NodeJS version between 12.19.0 and <=14.18.1
-
-### Install create-react-app
-
-Install create-react-app npm package globally. This will help to easily run the project and also build the source files easily. Use the following command to install create-react-app
-
-```bash
-npm install -g create-react-app
-```
+Refer to https://nodejs.org/en/ to install nodejs - Please choose NodeJS version between 12.19.0 and <=14.18.1 or above is possible.
 
 ## Running the Application in local
 
-Unzip the project. Open the terminal app and go to the root of the project.
+First, unzip the node_modules file. 
 
-Install all the npm packages. Go into the project folder and type the following command to install all npm packages
+Open the terminal app and go to the root of the project.
 
-```bash
-npm install
-```
 
 In order to run the application Type the following command
 
